@@ -1,6 +1,7 @@
 package com.pccu.ces;
 
 import java.io.BufferedReader;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -28,6 +29,8 @@ public class CES extends Student {
 		/*
 		 * Your Work !
 		 * */
+		
+		FileWriter fileWriter = null;
 	}
 	
 	private static void ScoreEnrollment () {
